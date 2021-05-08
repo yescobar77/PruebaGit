@@ -1,5 +1,5 @@
 linea 1
-linea 2
+linea  (vit haciendo cambios) 2
 linea 3
 todo antes del 1er git add.
 Hice un git add, entonces hay 2 versiones de este archivo
